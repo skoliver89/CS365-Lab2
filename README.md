@@ -1,5 +1,5 @@
 # CS365-Lab2
-system calls and Sockets
+System Calls and Sockets
 
 Part I (15 points) <br />
 Create a C program on Ubuntu/Cygwin which demonstrates these system calls <br />
